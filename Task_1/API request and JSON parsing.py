@@ -1,3 +1,7 @@
+#
+# API request was giving a CORS protocal error so I connected with the SunbaseData through chat and I was told to hard code the data.
+#
+
 import requests
 
 # Make API request

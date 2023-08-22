@@ -3,6 +3,7 @@ This my assignment submission for a internship I have applied in SunbaseData
 
 ## TASK 1
 Extracting Data from JSON files and Displaying it as a list and a Drop down 
+//API request was giving a CORS protocal error so I connected with the SunbaseData through chat and I was told to hard code the data.
 
 ## ScreenShots
 ![By Clicking on other client](https://raw.githubusercontent.com/hackorlyf/AssignmentSubmission-MukundChoudhary/main/SS/By%20Clicking%20on%20other%20client.png)

@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Client List</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="filter-container">
+        <select id="filter-dropdown">
+            <option value="all">All clients</option>
+            <option value="managers">Managers only</option>
+            <option value="non-managers">Non-managers</option>
+        </select>
+    </div>
+    <ul id="client-list"></ul>
+    <div id="popup" class="popup">
+        <div class="popup-content">
+            <h2 id="popup-name"></h2>
+            <p id="popup-points"></p>
+            <p id="popup-address"></p>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
